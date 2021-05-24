@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "AN5sKiYIFxrBoTrbntcr+w==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1007_Y88_W97_H48", 
+    "human_readable": "a_1007_88_97_48_a_000000000000000000001c087dfe7dfe7ffe7ffe600060000000000000000000_f9aa3d362677c7a79825380fcdd1d563", 
+    "image_path": "MmZjZTA1ZWViMGYwNDBhYTM4NWMxYjJjNTE0NDY0MDQ.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Gift Cards", 
+                "class": "sfw-header-nav-trigger", 
+                "href": "https://www.chewy.com/chewy-egift-card/dp/226304", 
+                "id": "core-nav-3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 48, 
+            "identifier": "core-nav-3", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "gift cards", 
+            "type": "", 
+            "value": "", 
+            "width": 97, 
+            "x": 1007, 
+            "xPercent": 52.43652343750001, 
+            "y": 88, 
+            "yPercent": 2.479571710340941
+        }, 
+        "location": {
+            "x": 1007, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 97
+        }, 
+        "tag_name": "a", 
+        "text": "gift cards"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "be023816545aa875e29a3264a0e50ad9", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "gift cards", 
+    "transformed": true, 
+    "width": 97, 
+    "x": 1007, 
+    "y": 88
+}
