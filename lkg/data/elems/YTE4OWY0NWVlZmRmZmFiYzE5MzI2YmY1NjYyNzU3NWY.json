@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wtoiikRjHR8pNT8+nl9U1g==\n", 
+    "height": 187, 
+    "hier_level": 0, 
+    "human_hash": "img_X546_Y469_W187_H187", 
+    "human_readable": "img_546_469_187_187_img_fffff03fe00fc02f8007800783e3e00fe3f3f333fbb3fbf1fb81fe01ffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YTE4OWY0NWVlZmRmZmFiYzE5MzI2YmY1NjYyNzU3NWY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Flea & Tick Treatment & Medicine for Dogs", 
+                "class": "ccl-content-image__object-fit ccl-content-image__object-fit--scale-down", 
+                "src": "https://cms-www.chewy.com/dA/90d6384ff6/itemImage/CustomerFavorites_Flea Tick_1x.jpg", 
+                "style": "object-position: 50% 0px; font-family: \"object-fit: scale-down;\";"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "ccl-content-image__object-fit ccl-content-image__object-fit--scale-down", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"object-fit: scale-down;\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 187, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 187, 
+            "x": 546, 
+            "xPercent": 28.45458984375, 
+            "y": 469, 
+            "yPercent": 13.367363286812875
+        }, 
+        "location": {
+            "x": 546, 
+            "y": 469
+        }, 
+        "size": {
+            "height": 187, 
+            "width": 187
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7341b7f3e101e6123829c9db28b74601", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 187, 
+    "x": 546, 
+    "y": 469
+}

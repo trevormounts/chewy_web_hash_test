@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "r8vnNIEAQQMy2+VAZpauGQ==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "li_X504_Y398_W133_H60", 
+    "human_readable": "li_504_398_133_60_li_fffffffffffffffffffffffffc7ffc3ffc3ffc3fffffffffffffffffffffffff_9dba340dc8f1ac9424d0c5e15d17c8cf", 
+    "image_path": "YzcwNjhiZWFjNmI4NWI1ZWEwOWViODlmODkxZmE3ZjQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(85, 85, 85)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Size", 
+            "type": "", 
+            "value": 0, 
+            "width": 133, 
+            "x": 504, 
+            "xPercent": 26.268717447916668, 
+            "y": 398, 
+            "yPercent": 4.861259623609923
+        }, 
+        "location": {
+            "x": 504, 
+            "y": 398
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 133
+        }, 
+        "tag_name": "li", 
+        "text": "Size"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1427c35043e3ad52b2e2f6e8d169485e", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Size", 
+    "transformed": true, 
+    "width": 133, 
+    "x": 504, 
+    "y": 398
+}

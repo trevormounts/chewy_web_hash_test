@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "lCLbh0fB7Q+PT9q6AmEmWg==\n", 
+    "height": 187, 
+    "hier_level": 0, 
+    "human_hash": "img_X973_Y469_W187_H187", 
+    "human_readable": "img_973_469_187_187_img_ffffe01fe00fe00fe017e03fe077e007e007e007e007e007e007ffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NWNlNjYwOTc4ODVmNDczMjk3OGU1Y2FmZTg3OTA3NmM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Dog Supplements", 
+                "class": "ccl-content-image__object-fit ccl-content-image__object-fit--scale-down", 
+                "src": "https://cms-www.chewy.com/dA/902a90eed3/itemImage/CustomerFavorites_DogSupplements_1x.jpg", 
+                "style": "object-position: 50% 0px; font-family: \"object-fit: scale-down;\";"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "ccl-content-image__object-fit ccl-content-image__object-fit--scale-down", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"object-fit: scale-down;\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 187, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 187, 
+            "x": 973, 
+            "xPercent": 50.67626953124999, 
+            "y": 469, 
+            "yPercent": 13.367363286812875
+        }, 
+        "location": {
+            "x": 973, 
+            "y": 469
+        }, 
+        "size": {
+            "height": 187, 
+            "width": 187
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7341b7f3e101e6123829c9db28b74601", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 187, 
+    "x": 973, 
+    "y": 469
+}

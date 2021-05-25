@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HdjUiCW0zCdO2ne1VpLciA==\n", 
+    "height": 190, 
+    "hier_level": 0, 
+    "human_hash": "img_X588_Y339_W190_H190", 
+    "human_readable": "img_588_339_190_190_img_e00fe00fe06fe00fe00fe00fe00fe00fe00fe00fe007e007e007e007e007e007_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZGU5MWZjYzFkYTZhMDZiNWYxMjA5NGVkYmY5Y2QxZWQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "ACANA Red Meat Formula Grain-Free Dry Dog Food 25-lb bag", 
+                "class": " lazyloaded", 
+                "data-src": "//img.chewy.com/is/image/catalog/93460_MAIN._AC_SS190_V1608227838_.jpg", 
+                "src": "//img.chewy.com/is/image/catalog/93460_MAIN._AC_SS190_V1608227838_.jpg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": " lazyloaded", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 190, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 190, 
+            "x": 588, 
+            "xPercent": 30.613606770833336, 
+            "y": 339, 
+            "yPercent": 9.970588235294118
+        }, 
+        "location": {
+            "x": 588, 
+            "y": 339
+        }, 
+        "size": {
+            "height": 190, 
+            "width": 190
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5029506f8a15650ee377f0ca3a1270d9", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 190, 
+    "x": 588, 
+    "y": 339
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "K+r1HbS2wLXJ7VgtTbjQVg==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X1112_Y358_W160_H52", 
+    "human_readable": "a_1112_358_160_52_a_0000ffff7ffe7ffe7ffe7ffe7c3e7c3e7c3e7c3e7ffe7ffe7ffe7ffeffff0000_8d610a0fe2394682be4a5bb49f067e33", 
+    "image_path": "ODFiYjI4YjU3YTk4Y2RmMzgxMTU0YWI3ZGNiN2NlM2I.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cw-btn cw-btn--default", 
+                "href": "/app/cart"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(22, 57, 119)", 
+            "cssClass": "cw-btn cw-btn--default", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Cart", 
+            "type": "", 
+            "value": "", 
+            "width": 160, 
+            "x": 1112, 
+            "xPercent": 57.906087239583336, 
+            "y": 358, 
+            "yPercent": 13.555471412343808
+        }, 
+        "location": {
+            "x": 1112, 
+            "y": 358
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 160
+        }, 
+        "tag_name": "a", 
+        "text": "Cart"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "52ee5aebbaaf228dca4b0e50345eef2c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Cart", 
+    "transformed": true, 
+    "width": 160, 
+    "x": 1112, 
+    "y": 358
+}

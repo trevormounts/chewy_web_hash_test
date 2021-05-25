@@ -13,6 +13,7 @@
     "human_hash": "a_X1007_Y88_W97_H48", 
     "human_readable": "a_1007_88_97_48_a_000000000000000000001c087dfe7dfe7ffe7ffe600060000000000000000000_f9aa3d362677c7a79825380fcdd1d563", 
     "image_path": "MmZjZTA1ZWViMGYwNDBhYTM4NWMxYjJjNTE0NDY0MDQ.png", 
+    "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
@@ -50,7 +51,7 @@
             "x": 1007, 
             "xPercent": 52.43652343750001, 
             "y": 88, 
-            "yPercent": 2.479571710340941
+            "yPercent": 2.6020106445890008
         }, 
         "location": {
             "x": 1007, 
@@ -67,7 +68,7 @@
     "package": "", 
     "password": false, 
     "resource-id": "", 
-    "screen_hash": "be023816545aa875e29a3264a0e50ad9", 
+    "screen_hash": "7dd941afe132fe4215032a35e34ad8ef", 
     "scrollable": false, 
     "tag_name": "a", 
     "text": "gift cards", 

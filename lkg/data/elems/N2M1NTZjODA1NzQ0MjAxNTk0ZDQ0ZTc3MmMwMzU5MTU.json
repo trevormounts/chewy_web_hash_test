@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2biBaW+y+QqX5VhskR2S8Q==\n", 
+    "height": 187, 
+    "hier_level": 0, 
+    "human_hash": "img_X333_Y613_W187_H187", 
+    "human_readable": "img_333_613_187_187_img_f00ff00ff00ff00ff00ff00ff04ff00ff00ff3cff00ff00ff00ff00ff00fffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "N2M1NTZjODA1NzQ0MjAxNTk0ZDQ0ZTc3MmMwMzU5MTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Dog Food", 
+                "class": "ccl-content-image__object-fit ccl-content-image__object-fit--scale-down", 
+                "src": "https://cms-www.chewy.com/dA/2368f06265/itemImage/CustomersFavorite-DogFood-172.png", 
+                "style": "object-position: 50% 0px; font-family: \"object-fit: scale-down;\";"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "ccl-content-image__object-fit ccl-content-image__object-fit--scale-down", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"object-fit: scale-down;\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 187, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 187, 
+            "x": 333, 
+            "xPercent": 17.34375, 
+            "y": 613, 
+            "yPercent": 18.125369603784744
+        }, 
+        "location": {
+            "x": 333, 
+            "y": 613
+        }, 
+        "size": {
+            "height": 187, 
+            "width": 187
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b05f9ac0e90f0764100807000723be72", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 187, 
+    "x": 333, 
+    "y": 613
+}

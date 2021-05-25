@@ -7,26 +7,26 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "cWfqMR1AFsBgPA00zDWojw==\n", 
+    "hash": "BeRhFkH2ry0HTl5lLxJ7RQ==\n", 
     "height": 48, 
     "hier_level": 0, 
-    "human_hash": "a_X814_Y88_W126_H48", 
-    "human_readable": "a_814_88_126_48_a_0000000000000000000008247f7e7ffe7ffe7ffe060000000000000000000000_3f6cb6314c7f80438139e9f73f5feca5", 
-    "image_path": "MTU3ZDI3ZjUzZmY1ODllMjVmNWVmZDFlM2YyNTBkNDg.png", 
+    "human_hash": "a_X1441_Y24_W133_H48", 
+    "human_readable": "a_1441_24_133_48_a_10003800380028007800680078217bff3bff3bff23ee7a007800000000000000_f687efa5e6b42d25cec36245537f7c64", 
+    "image_path": "ZmY4OTc0MjdmNmVhNGVhMDNmNGU4YTZmMDQxYTM4MmY.png", 
     "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
-                "aria-label": "Today's Deals", 
                 "class": "sfw-header-nav-trigger", 
-                "href": "https://www.chewy.com/deals/todays-deals-2723", 
-                "id": "core-nav-2"
+                "data-trigger-by-hover": "true", 
+                "href": "https://www.chewy.com/app/cart", 
+                "title": "your cart"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
             "color": "rgb(255, 255, 255)", 
             "cssClass": "sfw-header-nav-trigger", 
-            "domLevel": 10, 
+            "domLevel": 12, 
             "flags": {
                 "checkable": false, 
                 "clickable": true, 
@@ -37,32 +37,32 @@
             }, 
             "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
             "font-weight": "700", 
-            "fontSize": 19, 
+            "fontSize": 20, 
             "height": 48, 
-            "identifier": "core-nav-2", 
+            "identifier": "", 
             "is-focused": false, 
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "today's deals", 
+            "text": "0 your cart", 
             "type": "", 
             "value": "", 
-            "width": 126, 
-            "x": 814, 
-            "xPercent": 42.373860677083336, 
-            "y": 88, 
-            "yPercent": 2.6020106445890008
+            "width": 133, 
+            "x": 1441, 
+            "xPercent": 75.03336588541667, 
+            "y": 24, 
+            "yPercent": 0.7096392667060911
         }, 
         "location": {
-            "x": 814, 
-            "y": 88
+            "x": 1441, 
+            "y": 24
         }, 
         "size": {
             "height": 48, 
-            "width": 126
+            "width": 133
         }, 
         "tag_name": "a", 
-        "text": "today's deals"
+        "text": "0 your cart"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -71,9 +71,9 @@
     "screen_hash": "7dd941afe132fe4215032a35e34ad8ef", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "today's deals", 
+    "text": "0 your cart", 
     "transformed": true, 
-    "width": 126, 
-    "x": 814, 
-    "y": 88
+    "width": 133, 
+    "x": 1441, 
+    "y": 24
 }
