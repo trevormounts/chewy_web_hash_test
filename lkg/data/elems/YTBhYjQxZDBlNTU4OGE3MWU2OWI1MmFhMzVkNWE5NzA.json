@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "OXtAZ5bGEmDBKr3YtizhPA==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "a_X519_Y116_W112_H19", 
+    "human_readable": "a_519_116_112_19_a_fffffffff7ff737f377f007f007f007f007f007f007f007f087fdfffdfffdfff_467893f2201856bfb17f07f4174cd996", 
+    "image_path": "YTBhYjQxZDBlNTU4OGE3MWU2OWI1MmFhMzVkNWE5NzA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-v-56ffbd68": "", 
+                "href": "https://www.chewy.com/b/dry-food-294"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(85, 85, 85)", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Dry Food", 
+            "type": "", 
+            "value": "", 
+            "width": 112, 
+            "x": 519, 
+            "xPercent": 27.03125, 
+            "y": 116, 
+            "yPercent": 3.9455782312925165
+        }, 
+        "location": {
+            "x": 519, 
+            "y": 116
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 112
+        }, 
+        "tag_name": "a", 
+        "text": "Dry Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c2e61de64f290496f70251adfc6863fe", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Dry Food", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 519, 
+    "y": 116
+}

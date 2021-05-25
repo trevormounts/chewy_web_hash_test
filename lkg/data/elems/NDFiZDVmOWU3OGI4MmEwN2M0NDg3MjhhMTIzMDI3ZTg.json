@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "yUFWI5+By6wABOUoft//1A==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1271_Y0_W125_H48", 
+    "human_readable": "a_1271_0_125_48_a_00000000000000000000000035577fff7dff7fff7dff40000000000000000000_fcb5d7ad9c5da887fc5868599e936b73", 
+    "image_path": "NDFiZDVmOWU3OGI4MmEwN2M0NDg3MjhhMTIzMDI3ZTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-nav-trigger account-dropdown-link", 
+                "data-trigger-by-hover": "true", 
+                "href": "/app/account", 
+                "title": "your account"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger account-dropdown-link", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "your\n            account", 
+            "type": "", 
+            "value": "", 
+            "width": 125, 
+            "x": 1271, 
+            "xPercent": 66.19384765625, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1271, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 125
+        }, 
+        "tag_name": "a", 
+        "text": "your\n            account"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4c9125aa8b79f5beeaeea5847eec77f6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "your\n            account", 
+    "transformed": true, 
+    "width": 125, 
+    "x": 1271, 
+    "y": 0
+}

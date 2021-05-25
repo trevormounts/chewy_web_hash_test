@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "H6S+A9sKyeqEgXMV5Vcr9w==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1132_Y24_W93_H48", 
+    "human_readable": "a_1132_24_93_48_a_000000000000000000002be47fef3fff3d7f7d7f653f00020000000000000000_195dda150face369c928f12af643b827", 
+    "image_path": "ZjkxM2FhOWQyOTJmNWIxZDQyYjc1ZjQ3YmJlMDFkOTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-nav-trigger help-dropdown-link", 
+                "data-trigger-by-hover": "true", 
+                "href": "/app/content/contact", 
+                "title": "24/7 help"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger help-dropdown-link", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "24/7 help", 
+            "type": "", 
+            "value": "", 
+            "width": 93, 
+            "x": 1132, 
+            "xPercent": 58.982747395833336, 
+            "y": 24, 
+            "yPercent": 0.34061879080329266
+        }, 
+        "location": {
+            "x": 1132, 
+            "y": 24
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 93
+        }, 
+        "tag_name": "a", 
+        "text": "24/7 help"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7e803b74825c726c03ddba9634324119", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "24/7 help", 
+    "transformed": true, 
+    "width": 93, 
+    "x": 1132, 
+    "y": 24
+}

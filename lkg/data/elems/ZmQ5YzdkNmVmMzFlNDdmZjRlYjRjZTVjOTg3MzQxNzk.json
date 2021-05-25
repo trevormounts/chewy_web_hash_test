@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "TjE3f03+1IxhARTrOIZiRA==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "a_X1104_Y370_W103_H19", 
+    "human_readable": "a_1104_370_103_19_a_ffffffffff7f3e7f3c5f005f024f004f004f805f005f005f027ff7fff7ffffff_8c9eb972f7442e99229bd9300ebee5f2", 
+    "image_path": "ZmQ5YzdkNmVmMzFlNDdmZjRlYjRjZTVjOTg3MzQxNzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-menu-all-link", 
+                "data-v-56ffbd68": "", 
+                "href": "https://www.chewy.com/b/dog-288"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "sfw-header-menu-all-link", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop all", 
+            "type": "", 
+            "value": "", 
+            "width": 103, 
+            "x": 1104, 
+            "xPercent": 57.523600260416664, 
+            "y": 370, 
+            "yPercent": 12.585034013605442
+        }, 
+        "location": {
+            "x": 1104, 
+            "y": 370
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 103
+        }, 
+        "tag_name": "a", 
+        "text": "Shop all"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c2e61de64f290496f70251adfc6863fe", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop all", 
+    "transformed": true, 
+    "width": 103, 
+    "x": 1104, 
+    "y": 370
+}

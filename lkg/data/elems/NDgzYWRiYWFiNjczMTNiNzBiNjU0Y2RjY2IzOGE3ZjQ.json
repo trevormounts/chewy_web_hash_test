@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6p5u1aX8q+/Bo1LXGFhgJQ==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "a_X985_Y117_W103_H19", 
+    "human_readable": "a_985_117_103_19_a_ffffffff7fff3fff3fff07ff03ff07ff07ff03ff03ff03ff07ffefffcfffcfff_c4b4b37c1a27cf1557967679fd109dab", 
+    "image_path": "NDgzYWRiYWFiNjczMTNiNzBiNjU0Y2RjY2IzOGE3ZjQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-v-56ffbd68": "", 
+                "href": "https://www.chewy.com/b/toys-315"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(85, 85, 85)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Toys", 
+            "type": "", 
+            "value": "", 
+            "width": 103, 
+            "x": 985, 
+            "xPercent": 51.31591796875, 
+            "y": 117, 
+            "yPercent": 3.9795918367346936
+        }, 
+        "location": {
+            "x": 985, 
+            "y": 117
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 103
+        }, 
+        "tag_name": "a", 
+        "text": "Toys"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c2e61de64f290496f70251adfc6863fe", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Toys", 
+    "transformed": true, 
+    "width": 103, 
+    "x": 985, 
+    "y": 117
+}
