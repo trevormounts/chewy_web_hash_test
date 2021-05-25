@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5JXR9XZtbCBTyBW8LCDerA==\n", 
+    "height": 46, 
+    "hier_level": 0, 
+    "human_hash": "button_X1377_Y195_W203_H46", 
+    "human_readable": "button_1377_195_203_46_button_000000000000000000001fb03ffc3ffc3ff83ffc081000000000000000000000_2e55cead8b35585ffdccac11bdc3689c", 
+    "image_path": "ZjliZGY5NzdmMzE0YWExNWI2ZWRlMjg4OTQ1MDYxZjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sc-eqIVtm sc-caSCKo fJXWsr", 
+                "data-component-name": "frequently-bought-together", 
+                "data-features-present": "true", 
+                "data-list-category": "pdp", 
+                "data-source-view": "pdp", 
+                "id": "add-to-cart-fbt"
+            }, 
+            "background-color": "rgb(239, 108, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sc-eqIVtm sc-caSCKo fJXWsr", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, serif", 
+            "font-weight": "700", 
+            "fontSize": 18, 
+            "height": 46, 
+            "identifier": "add-to-cart-fbt", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Add All 3 to Cart", 
+            "type": "", 
+            "value": "", 
+            "width": 203, 
+            "x": 1377, 
+            "xPercent": 71.72770182291667, 
+            "y": 195, 
+            "yPercent": 2.4811727805375114
+        }, 
+        "location": {
+            "x": 1377, 
+            "y": 195
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 203
+        }, 
+        "tag_name": "button", 
+        "text": "Add All 3 to Cart"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f887cf0d99d2bc2a0bae974de6688cfc", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Add All 3 to Cart", 
+    "transformed": true, 
+    "width": 203, 
+    "x": 1377, 
+    "y": 195
+}

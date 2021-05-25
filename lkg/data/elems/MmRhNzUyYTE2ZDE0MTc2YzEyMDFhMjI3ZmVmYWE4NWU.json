@@ -7,26 +7,24 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "cWfqMR1AFsBgPA00zDWojw==\n", 
-    "height": 48, 
+    "hash": "vZphJbvooMQTMzCASDeKWg==\n", 
+    "height": 60, 
     "hier_level": 0, 
-    "human_hash": "a_X814_Y88_W126_H48", 
-    "human_readable": "a_814_88_126_48_a_0000000000000000000008247f7e7ffe7ffe7ffe060000000000000000000000_3f6cb6314c7f80438139e9f73f5feca5", 
-    "image_path": "MTU3ZDI3ZjUzZmY1ODllMjVmNWVmZDFlM2YyNTBkNDg.png", 
+    "human_hash": "a_X484_Y88_W93_H60", 
+    "human_readable": "a_484_88_93_60_a_000000000000000010007fff7fff7fff60030000000000000000000000000000_d36f34fe738dccca77d3aefa5f077100", 
+    "image_path": "MmRhNzUyYTE2ZDE0MTc2YzEyMDFhMjI3ZmVmYWE4NWU.png", 
     "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
-                "aria-label": "Today's Deals", 
-                "class": "sfw-header-nav-trigger", 
-                "href": "https://www.chewy.com/deals/todays-deals-2723", 
-                "id": "core-nav-2"
+                "class": "sfw-header-nav-trigger pharmacy-dropdown-link sfw-header-nav-trigger--pharmacy", 
+                "href": "https://www.chewy.com/b/pharmacy-2515"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
             "color": "rgb(255, 255, 255)", 
-            "cssClass": "sfw-header-nav-trigger", 
-            "domLevel": 10, 
+            "cssClass": "sfw-header-nav-trigger pharmacy-dropdown-link sfw-header-nav-trigger--pharmacy", 
+            "domLevel": 12, 
             "flags": {
                 "checkable": false, 
                 "clickable": true, 
@@ -38,31 +36,31 @@
             "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
             "font-weight": "700", 
             "fontSize": 19, 
-            "height": 48, 
-            "identifier": "core-nav-2", 
+            "height": 60, 
+            "identifier": "", 
             "is-focused": false, 
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "today's deals", 
+            "text": "pharmacy", 
             "type": "", 
             "value": "", 
-            "width": 126, 
-            "x": 814, 
-            "xPercent": 42.373860677083336, 
+            "width": 93, 
+            "x": 484, 
+            "xPercent": 25.209147135416664, 
             "y": 88, 
             "yPercent": 2.6020106445890008
         }, 
         "location": {
-            "x": 814, 
+            "x": 484, 
             "y": 88
         }, 
         "size": {
-            "height": 48, 
-            "width": 126
+            "height": 60, 
+            "width": 93
         }, 
         "tag_name": "a", 
-        "text": "today's deals"
+        "text": "pharmacy"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -71,9 +69,9 @@
     "screen_hash": "7dd941afe132fe4215032a35e34ad8ef", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "today's deals", 
+    "text": "pharmacy", 
     "transformed": true, 
-    "width": 126, 
-    "x": 814, 
+    "width": 93, 
+    "x": 484, 
     "y": 88
 }

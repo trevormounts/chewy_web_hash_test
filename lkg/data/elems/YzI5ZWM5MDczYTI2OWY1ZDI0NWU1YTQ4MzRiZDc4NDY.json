@@ -13,6 +13,7 @@
     "human_hash": "a_X672_Y88_W75_H48", 
     "human_readable": "a_672_88_75_48_a_0000000000000000000060107ffc7ffc7ffc7ffc000000000000000000000000_a4bc3302f7e29b15c7972e092e4b7d37", 
     "image_path": "YzI5ZWM5MDczYTI2OWY1ZDI0NWU1YTQ4MzRiZDc4NDY.png", 
+    "index": -1, 
     "internal": {
         "elem_dict": {
             "attributes": {
@@ -50,7 +51,7 @@
             "x": 672, 
             "xPercent": 34.986165364583336, 
             "y": 88, 
-            "yPercent": 2.479571710340941
+            "yPercent": 2.6020106445890008
         }, 
         "location": {
             "x": 672, 
@@ -67,7 +68,7 @@
     "package": "", 
     "password": false, 
     "resource-id": "", 
-    "screen_hash": "be023816545aa875e29a3264a0e50ad9", 
+    "screen_hash": "7dd941afe132fe4215032a35e34ad8ef", 
     "scrollable": false, 
     "tag_name": "a", 
     "text": "brands", 

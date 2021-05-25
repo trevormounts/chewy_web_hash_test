@@ -7,20 +7,19 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "cWfqMR1AFsBgPA00zDWojw==\n", 
+    "hash": "jIM6LpTbuC8ZzW47LyixxA==\n", 
     "height": 48, 
     "hier_level": 0, 
-    "human_hash": "a_X814_Y88_W126_H48", 
-    "human_readable": "a_814_88_126_48_a_0000000000000000000008247f7e7ffe7ffe7ffe060000000000000000000000_3f6cb6314c7f80438139e9f73f5feca5", 
-    "image_path": "MTU3ZDI3ZjUzZmY1ODllMjVmNWVmZDFlM2YyNTBkNDg.png", 
-    "index": -1, 
+    "human_hash": "a_X1171_Y88_W97_H48", 
+    "human_readable": "a_1171_88_97_48_a_0000000000000000000010843efe7ffe7ffe7efe600060000000000000000000_f040418b07ef1e255440f30551532008", 
+    "image_path": "NGQxMmNmZTg3MjFlNDg3MzZmMzUxNDBiYzY3YmIwNWE.png", 
     "internal": {
         "elem_dict": {
             "attributes": {
-                "aria-label": "Today's Deals", 
+                "aria-label": "Give Back", 
                 "class": "sfw-header-nav-trigger", 
-                "href": "https://www.chewy.com/deals/todays-deals-2723", 
-                "id": "core-nav-2"
+                "href": "https://www.chewy.com/g/animal-shelters-and-rescues", 
+                "id": "core-nav-4"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
@@ -39,41 +38,41 @@
             "font-weight": "700", 
             "fontSize": 19, 
             "height": 48, 
-            "identifier": "core-nav-2", 
+            "identifier": "core-nav-4", 
             "is-focused": false, 
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "today's deals", 
+            "text": "give back", 
             "type": "", 
             "value": "", 
-            "width": 126, 
-            "x": 814, 
-            "xPercent": 42.373860677083336, 
+            "width": 97, 
+            "x": 1171, 
+            "xPercent": 60.996907552083336, 
             "y": 88, 
-            "yPercent": 2.6020106445890008
+            "yPercent": 2.479571710340941
         }, 
         "location": {
-            "x": 814, 
+            "x": 1171, 
             "y": 88
         }, 
         "size": {
             "height": 48, 
-            "width": 126
+            "width": 97
         }, 
         "tag_name": "a", 
-        "text": "today's deals"
+        "text": "give back"
     }, 
     "is_transformed": true, 
     "package": "", 
     "password": false, 
     "resource-id": "", 
-    "screen_hash": "7dd941afe132fe4215032a35e34ad8ef", 
+    "screen_hash": "be023816545aa875e29a3264a0e50ad9", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "today's deals", 
+    "text": "give back", 
     "transformed": true, 
-    "width": 126, 
-    "x": 814, 
+    "width": 97, 
+    "x": 1171, 
     "y": 88
 }

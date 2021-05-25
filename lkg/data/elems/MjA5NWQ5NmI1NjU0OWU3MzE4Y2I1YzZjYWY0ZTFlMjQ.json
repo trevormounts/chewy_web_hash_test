@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SUvh8T/vPYA+utGUtEysLw==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "a_X355_Y484_W137_H18", 
+    "human_readable": "a_355_484_137_18_a_ffffffffffff87ff03ff03ff03ff03ff03ff03ff03ff03ff07ffffffffffffff_96456ca44ee4a57572df5c434d267e8b", 
+    "image_path": "MjA5NWQ5NmI1NjU0OWU3MzE4Y2I1YzZjYWY0ZTFlMjQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-label", 
+                "data-facet-position": "0", 
+                "href": "#"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "filter-label", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "ACANA", 
+            "type": "", 
+            "value": "", 
+            "width": 137, 
+            "x": 355, 
+            "xPercent": 18.489583333333336, 
+            "y": 484, 
+            "yPercent": 14.228400735294116
+        }, 
+        "location": {
+            "x": 355, 
+            "y": 484
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 137
+        }, 
+        "tag_name": "a", 
+        "text": "ACANA"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5029506f8a15650ee377f0ca3a1270d9", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "ACANA", 
+    "transformed": true, 
+    "width": 137, 
+    "x": 355, 
+    "y": 484
+}

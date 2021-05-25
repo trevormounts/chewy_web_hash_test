@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "kOzB06lkpndgsYmoheHF/A==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y381_W150_H15", 
+    "human_readable": "a_320_381_150_15_a_ffff9fff0fff0fff0fff0fff0fff0fff0fff0fff0fff0fff0fffffffffffffff_5d5f20eb00bf38028ed7fc01fdfc9cfd", 
+    "image_path": "YWFkMTFmY2I2ZGMwOWU3YTc5ZWViZjdmOGEwYWM0YTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "1610", 
+                "data-category-label": "Adult", 
+                "data-facet-position": "4", 
+                "data-is-department-page": "false", 
+                "href": "/b/adult-11098"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Adult", 
+            "type": "", 
+            "value": "", 
+            "width": 150, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 381, 
+            "yPercent": 5.382116118095777
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 381
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 150
+        }, 
+        "tag_name": "a", 
+        "text": "Adult"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60feb2b949c53cb524c78c5139f1b90f", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Adult", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 320, 
+    "y": 381
+}
